@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/index.html</loc>
+  <lastmod>2019-03-10T17:25:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/research.html</loc>
+  <lastmod>2019-03-10T17:27:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/publications.html</loc>
+  <lastmod>2019-03-21T20:36:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/resume.html</loc>
+  <lastmod>2019-03-10T17:53:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/research_phd.html</loc>
+  <lastmod>2019-02-26T17:44:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/research_masc.html</loc>
+  <lastmod>2018-09-21T17:49:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/ccece_cameraready.pdf</loc>
+  <lastmod>2019-03-21T20:33:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/Censorbased_tvt_meiling.pdf</loc>
+  <lastmod>2019-02-27T04:20:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/globecom18_vnf.pdf</loc>
+  <lastmod>2019-02-26T17:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/globecom18_SDT1.pdf</loc>
+  <lastmod>2018-12-11T01:05:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/epec18_maisam.pdf</loc>
+  <lastmod>2019-02-26T17:18:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/presentation_epec18_maisam.pdf</loc>
+  <lastmod>2019-02-27T17:40:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/MoG_EM.m</loc>
+  <lastmod>2018-06-20T05:49:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/WiMob_Omar.pdf</loc>
+  <lastmod>2018-06-20T05:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/VTC_Presentation.pdf</loc>
+  <lastmod>2018-06-20T05:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/publications/Globecom%20Presentation_Dec2014.pdf</loc>
+  <lastmod>2018-06-20T05:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/files/resume.pdf</loc>
+  <lastmod>2018-06-20T05:49:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/underconstruction2.html</loc>
+  <lastmod>2018-06-20T05:52:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.eng.uwaterloo.ca/~oalhusse/underconstruction.html</loc>
+  <lastmod>2018-06-20T05:52:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
