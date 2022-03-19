@@ -1,7 +1,0 @@
-# Rule 1
-Sitemap: http://www.eng.uwaterloo.ca/~oalhusse/sitemap.xml
-
-# Rule 2
-User-agent: *
-Allow: /
-
